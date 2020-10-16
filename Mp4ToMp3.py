@@ -1,13 +1,7 @@
-import moviepy.editor
-import termcolor 
-import colorama 
-import tkinter 
+from moviepy.editor import VideoFileClip
+from termcolor import colored
+from colorama import init, Fore, Back
 
-#GUI
-main = Tk()
-Label(main, text = "Mp4 To Mp3").pack()
-main.title("File Convertor")
-main.geometry("304x208")
 
 # Getting The Base Information 
 mp4_file = input("Enter The Path Of The Mp4 File                  : ")
