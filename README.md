@@ -2,6 +2,8 @@
 # Mp4 To Mp3 ⌨
 This A Program To Convert A String,URL,Any Text To QR Code
 
+<img align="left" alt="harish795r's GitHub Stats" src="https://i.imgur.com/a5l3LGZ.png">
+
 ✨ Its Main Features:-
 
 🖥️ Cross-platform
