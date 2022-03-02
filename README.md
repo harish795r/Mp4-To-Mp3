@@ -20,6 +20,6 @@ This A Program To Convert A String,URL,Any Text To QR Code
 
 📈 Usage Once You Have Downloaded , you just have to run it
 
-💳 Credits - HRY097
+
 
 
